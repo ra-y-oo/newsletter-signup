@@ -63,8 +63,8 @@ input {
 }
 
 .card {
-  max-width: 375px;
-  width: 100%;
+  /*     max-width: 375px;
+      width: 100%; */
 }
 .card .background {
   margin-top: 0;
